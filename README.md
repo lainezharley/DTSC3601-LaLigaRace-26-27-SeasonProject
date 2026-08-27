@@ -1,0 +1,2 @@
+# DTSC3601-PremierLeague-26-27-SeasonProject
+This is a semester project for my DTSC3601 - Predictive Analytics &amp; Their Implications course. The Premier League season runs from August - May, this will be a consistently updated project. Even past the course's semester the plan is to track the progress of the predicted winner &amp; placement changes as i'd like to compare the certainty of the model.
