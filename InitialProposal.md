@@ -1,5 +1,5 @@
-# DTSC-3601 PremierLeague 26/27 Season Project
-This is a semester project for my DTSC3601 - Predictive Analytics &amp; Their Implications course. The Premier League season runs from August - May, this will be a consistently updated project. Even past the course's semester the plan is to track the progress of the predicted winner &amp; placement changes as i'd like to compare the certainty of the model.
+# DTSC-3601 La Liga 26/27 Season Project
+This is a semester project for my DTSC3601 - Predictive Analytics &amp; Their Implications course. The 2026/2027 La Liga season runs from August - May, this will be a consistently updated project. Even past the course's semester the plan is to track the progress of the predicted winner &amp; placement changes as i'd like to compare the certainty of the model.
 
 ## Project Proposal:
 
