@@ -5,7 +5,7 @@ Harley Lainez Murillo, Joshua Adeleke, Malamin Drammeh
 
 A weekly-updated tool that estimates each club's probability of winning the current La Liga season. Rather than a one-time preseason guess, it recalculates the odds after every matchday using a match-outcome classifier and a Monte Carlo season simulation.
 
-> This repo is an extension of our Initial Documentation and Initial Demo submissions. Check DOCUMENTATION.md for full function-level reference.
+> This repo is an extension of our Initial Documentation and Initial Demo submissions. Check [DOCUMENTATION.md](./DOCUMENTATION.md) for full function-level reference.
 
 ## How It Works
 
