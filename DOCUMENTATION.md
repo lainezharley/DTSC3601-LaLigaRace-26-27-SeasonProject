@@ -1,7 +1,7 @@
 # Documentation
 
 Detailed reference for every major function in the pipeline, in the order
-they run. For setup and a quick example, see the [README](../README.md).
+they run. For setup and a quick example, see the [README](./README.md).
 
 ---
 
