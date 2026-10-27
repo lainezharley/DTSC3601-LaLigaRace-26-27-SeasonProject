@@ -86,4 +86,7 @@ The core model is a **classifier**, not a regression model. For a given fixture 
 
 ## Contact
 
-Questions? Reach out to Harley Lainez Murillo - hlainezm@charlotte.edu, Malamin Drammeh - mdramme2@charlotte.edu, Joshua Adeleke jadelek3@charlotte.edu
+Questions? Reach out to:
+- Harley Lainez Murillo - hlainezm@charlotte.edu
+- Malamin Drammeh - mdramme2@charlotte.edu
+- Joshua Adeleke jadelek3@charlotte.edu
