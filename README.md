@@ -1,6 +1,6 @@
 # La Liga Title Race Predictor
 
-**DTSC 3601 — Data Science Studio 3 | Team Goop Troop**
+**DTSC 3601 — Data Science Studio 3 | Team: Goop Troop**
 Harley Lainez Murillo, Joshua Adeleke, Malamin Drammeh
 
 A weekly-updated tool that estimates each club's probability of winning the current La Liga season. Rather than a one-time preseason guess, it recalculates the odds after every matchday using a match-outcome classifier and a Monte Carlo season simulation.
@@ -71,7 +71,7 @@ Match, fixture, and team data from [football-data.org](https://www.football-data
 
 ## Model
 
-The core model is a **classifier**, not a regression model. For a given fixture it outputs a probability for each of three classes — Home win, Draw, Away win. Current test accuracy is ~46% on this 3-class problem (vs. ~33% for random guessing). Check DOCUMENTATION.md for details on each feature and function.
+The core model is a **classifier**, not a regression model. For a given fixture it outputs a probability for each of three classes — Home win, Draw, Away win. Current test accuracy is ~46% on this 3-class problem (vs. ~33% for random guessing). Check [DOCUMENTATION.md](./DOCUMENTATION.md) for details on each feature and function.
 
 ## Roadmap
 
